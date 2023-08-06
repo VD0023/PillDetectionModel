@@ -1,6 +1,7 @@
 # A Pill Detection Project
 **APPLICATION NAME: - Techista**
-![img.png](img.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/4f052c00-e3f6-4cf8-b1a0-a09e6ca17454)
+
 
 **ABSTRACT**:
 The pill detection model developed using TensorFlow is designed to automatically identify and classify pills within images. The model leverages deep learning techniques to analyze visual features of pills and make predictions based on a trained neural network. By utilizing a large dataset of pill images, the model achieves high accuracy in pill detection and classification, enabling applications in healthcare, pharmaceutical quality control, and pill identification systems. The model's architecture and training methodology are based on convolutional neural networks (CNNs) and transfer learning to optimize performance and efficiency. Experimental results demonstrate the effectiveness of the model in accurately detecting and categorizing pills across various shapes, colors, and markings. The proposed model serves as a valuable tool for pill recognition and enhances the efficiency and reliability of pill detection processes.
@@ -35,7 +36,8 @@ The automated pill detection system utilizing TensorFlow modules and image proce
 ●	Utilizing TensorFlow modules and machine learning capabilities, the system can continuously improve its pill identification accuracy over time. It can adapt to new pill variations and refine its recognition capabilities through learning from labeled data.
 
 
-![img_1.png](img_1.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/c8512a13-df7d-4d4f-a2ea-8292a9b6d24c)
+
 Figure 1: Database connectivity
  
 
@@ -45,13 +47,7 @@ Figure 1: Database connectivity
 ●	Lee and colleagues proposed a computer vision solution for automatic pills identification based on size, shape, color, and imprinting they refined the approach using MLBP, SIFT, and colorquantification for imprinting, resulting in the closest match from thedatabase as the identified pill.
 ●	MedSnap is a pill recognition software for iPhone devices. It uses image processing and a local database to identify pills. By aligning the device with the marker, the software automatically captures andprocesses the image, providing a list of segmented pills with relevant information for patients and caregivers.
 
-
-
-
-
-
-
-![img_2.png](img_2.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/3995ca15-9dba-4409-8730-347eb9a2cb28)
 Figure 2: illustration
  
 
@@ -102,7 +98,7 @@ By leveraging the knowledge gained from the analysis study, Techista aims to inc
 
 
 A. REQUIREMENT ANALYSIS: -
-![img_3.png](img_3.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/45432255-b630-4e99-bd95-3b2b300b173f)
 Table 1: Requirement Analysis-
 
 
@@ -310,7 +306,8 @@ FLOWCHART
 
 
 
-![img_4.png](img_4.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/79429284-174e-487d-a1b7-557ddaff3d6e)
+
 Figure 3: Flowchart
  
 DATAFLOW DIAGRAM
@@ -318,19 +315,22 @@ DATAFLOW DIAGRAM
 
 
 
-![img_5.png](img_5.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/26def73f-05d2-4704-9d76-5ea84207dcfb)
+
 Figure 4: 0th Level DFD
  
  
 
 
 
-![img_6.png](img_6.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/679e1f69-7c37-4c1a-ac82-b72731ddce72)
+
 Figure 5: 1st Level DFD
  
 E-R DIAGRAM
 
-![img_7.png](img_7.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/5fc8e76b-340d-4e70-b70f-6c9df0f791dd)
+
 Figure 6: ER Diagram
  
 OBJECT DIAGRAM
@@ -339,12 +339,14 @@ OBJECT DIAGRAM
 
 
 
-![img_8.png](img_8.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/a0e2c582-0fef-432c-89f5-72c0d1976537)
+
 Figure 7: Object Diagram
  
 
 ACTIVITY DIAGRAM
-![img_9.png](img_9.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/ba677009-6b54-4942-b2a3-b5ded17aab1c)
+
 Figure 8: Class Diagram
  
 USE-CASE
@@ -353,7 +355,8 @@ USE-CASE
 
 
 
-![img_10.png](img_10.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/8510caf5-56ad-49e7-aa68-3166e535a758)
+
 Figure 9: Use Case Diagram
  
 
@@ -370,7 +373,8 @@ SEQUENCE DIAGRAM
 
 
 
-![img_11.png](img_11.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/4eb53c59-adad-4e99-914c-0fbcf6c9843e)
+
 Figure 10: Sequence Diagram
 
 
@@ -387,7 +391,8 @@ Figure 10: Sequence Diagram
 
 
 COLLABORATION DIAGRAM
-![img_12.png](img_12.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/7a4c0187-6443-4649-b6fe-a5d28aa8da5b)
+
 Figure 11: Collaboration Diagram
  
 STATE CHART DIAGRAM
@@ -396,7 +401,8 @@ STATE CHART DIAGRAM
 
 
 
-![img_13.png](img_13.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/7c12b41d-fd2a-4d02-9f1c-18fc0ad7a4b9)
+
 Figure 12: State Chart Diagram
  
 
@@ -507,7 +513,8 @@ o	Expected Output: The model should correctly identify the absence of pills andp
 
 
 Test Cases for Techista
-![img_14.png](img_14.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/cc783394-b74f-4c2c-8c68-7191233413c4)
+
 Table : Test Cases
  
 5.2	OUTPUTS
@@ -516,14 +523,15 @@ Table : Test Cases
 Showing multiple detection with accuracy level
  
 Dataset Description for Techista
-![img_16.png](img_16.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/2e1bfd68-2d34-40c8-a9e8-83ebb1775475)
 Table: describing dataset
 
 
 **Chapter 6- RESULTS & CONCLUSION**
 
 
-![img_17.png](img_17.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/fd8c8128-b9bc-496a-a666-7b93b908d4fb)
+
 Table: Results and description
 
 The table presents a concise overview of the results and conclusions of a pill detection project. It includes key findings, performance metrics, quantitative and qualitative results, comparison to objectives, analysis of false positives/negatives, limitations, future work opportunities, applicabilityof results, and overall conclusions.
@@ -534,7 +542,8 @@ MULTPLE CASE RESULTS
 
 
 
-![img_18.png](img_18.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/e7977019-a8e5-4fcd-9b1d-31dea416f17d)
+
 Figure 21: images
 
 
@@ -544,11 +553,12 @@ Figure 21: images
 
 
 
-![img_19.png](img_19.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/3f30da7f-3208-4ea0-9a5a-ddf1b4211e4a)
+
 Figure 22: Neg images
  
 **6.3	Detection From Videos**
-![img_20.png](img_20.png)
+![image](https://github.com/VD0023/PillDetectionModel/assets/99820386/3d124f60-7a24-4260-90e7-08e8a1003439)
 Figure 25: Detection through Video
  
 
