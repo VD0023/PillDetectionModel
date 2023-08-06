@@ -1,0 +1,7 @@
+python model_main_tf2.py --model_dir=trainingfinal --pipeline_config_path=ssd_efficientdet_d0_512x512_coco17_tpu-8.config --checkpoint_dir=trainingfinal
+
+cd desktop/Project1/models/research/object_detection
+
+tensorboard --logdir training/train
+
+tensorboard --logdir=.
